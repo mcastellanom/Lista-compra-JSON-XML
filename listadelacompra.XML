@@ -1,0 +1,123 @@
+<supermercados>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Av. Virgen del Carmen, 30, 11204 Algeciras, Cádiz</direccion>
+    <geolocalizacion>
+      <latitud>36.135047</latitud>
+      <longitud>-5.450469</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Huevos</nombre>
+        <ofertas>
+          <oferta>
+            <descripcion>Oferta 2x1</descripcion>
+            <periodo_vigencia>01/06/2023 - 30/06/2023</periodo_vigencia>
+          </oferta>
+        </ofertas>
+        <sin_oferta>false</sin_oferta>
+        <unidades>12</unidades>
+        <unidad_medida>unidades</unidad_medida>
+        <precio>2.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Bebida de soja</nombre>
+        <ofertas />
+        <sin_oferta>true</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>1.5</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Queso semicurado</nombre>
+        <ofertas />
+        <sin_oferta>false</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>kilogramo</unidad_medida>
+        <precio>5.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Hipercor</nombre>
+    <direccion>Paseo Juan Pérez Arriete, s/n, 11204 Algeciras, Cádiz</direccion>
+    <geolocalizacion>
+      <latitud>36.138759</latitud>
+      <longitud>-5.457310</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Tomates</nombre>
+        <ofertas />
+        <sin_oferta>true</sin_oferta>
+        <unidades>6</unidades>
+        <unidad_medida>unidades</unidad_medida>
+        <precio>2.49</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Helado de limón</nombre>
+        <ofertas>
+          <oferta>
+            <descripcion>Oferta 3x2</descripcion>
+            <periodo_vigencia>15/06/2023 - 30/06/2023</periodo_vigencia>
+          </oferta>
+        </ofertas>
+        <sin_oferta>false</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>3.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Salmorejo</nombre>
+        <ofertas />
+        <sin_oferta>false</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>litro</unidad_medida>
+        <precio>2.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Av. Veintiocho de Febrero, s/n, 11207 Algeciras, Cádiz</direccion>
+    <geolocalizacion>
+      <latitud>36.128275</latitud>
+      <longitud>-5.445212</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Jamón serrano</nombre>
+        <ofertas />
+        <sin_oferta>false</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>kilogramo</unidad_medida>
+        <precio>8.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Hummus</nombre>
+        <ofertas />
+        <sin_oferta>true</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>envase</unidad_medida>
+        <precio>1.99</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pasta</nombre>
+        <ofertas />
+        <sin_oferta>false</sin_oferta>
+        <unidades>1</unidades>
+        <unidad_medida>paquete</unidad_medida>
+        <precio>0.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+</supermercados>

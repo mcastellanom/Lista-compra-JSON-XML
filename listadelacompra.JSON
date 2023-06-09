@@ -1,0 +1,125 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Mercadona",
+      "direccion": "Av. Virgen del Carmen, 30, 11204 Algeciras, Cádiz",
+      "geolocalizacion": {
+        "latitud": 36.135047,
+        "longitud": -5.450469
+      },
+      "productos": [
+        {
+          "nombre": "Huevos",
+          "ofertas": [
+            {
+              "descripcion": "Oferta 2x1",
+              "periodo_vigencia": "01/06/2023 - 30/06/2023"
+            }
+          ],
+          "sin_oferta": false,
+          "unidades": 12,
+          "unidad_medida": "unidades",
+          "precio": 2.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Bebida de soja",
+          "ofertas": [],
+          "sin_oferta": true,
+          "unidades": 1,
+          "unidad_medida": "litro",
+          "precio": 1.5,
+          "adquirido": true
+        },
+        {
+          "nombre": "Queso semicurado",
+          "ofertas": [],
+          "sin_oferta": false,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 5.99,
+          "adquirido": false
+        }
+      ]
+    },
+    {
+      "nombre": "Hipercor",
+      "direccion": "Paseo Juan Pérez Arriete, s/n, 11204 Algeciras, Cádiz",
+      "geolocalizacion": {
+        "latitud": 36.138759,
+        "longitud": -5.457310
+      },
+      "productos": [
+        {
+          "nombre": "Tomates",
+          "ofertas": [],
+          "sin_oferta": true,
+          "unidades": 6,
+          "unidad_medida": "unidades",
+          "precio": 2.49,
+          "adquirido": true
+        },
+        {
+          "nombre": "Helado de limón",
+          "ofertas": [
+            {
+              "descripcion": "Oferta 3x2",
+              "periodo_vigencia": "15/06/2023 - 30/06/2023"
+            }
+          ],
+          "sin_oferta": false,
+          "unidades": 1,
+          "unidad_medida": "litro",
+          "precio": 3.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Salmorejo",
+          "ofertas": [],
+          "sin_oferta": false,
+          "unidades": 1,
+          "unidad_medida": "litro",
+          "precio": 2.99,
+          "adquirido": false
+        }
+      ]
+    },
+    {
+      "nombre": "Lidl",
+      "direccion": "Av. Veintiocho de Febrero, s/n, 11207 Algeciras, Cádiz",
+      "geolocalizacion": {
+        "latitud": 36.128275,
+        "longitud": -5.445212
+      },
+      "productos": [
+        {
+          "nombre": "Jamón serrano",
+          "ofertas": [],
+          "sin_oferta": false,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 8.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Hummus",
+          "ofertas": [],
+          "sin_oferta": true,
+          "unidades": 1,
+          "unidad_medida": "envase",
+          "precio": 1.99,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pasta",
+          "ofertas": [],
+          "sin_oferta": false,
+          "unidades": 1,
+          "unidad_medida": "paquete",
+          "precio": 0.99,
+          "adquirido": false
+        }
+      ]
+    }
+  ]
+}
